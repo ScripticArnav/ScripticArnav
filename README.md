@@ -8,7 +8,7 @@
 <h3 align="center">A passionate FullStack developer from India, who is devoted towards learning and evolving,and love technologies</h3> 
 <br>
 <p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/avanishyadav911/count.svg" alt="visitor badge"/></p>
+<p align="center"><img src="https://profile-counter.glitch.me/ScripticArnav/count.svg" alt="visitor badge"/></p>
 <br/>
 
 - 🔭 I’m currently working on **honing my skills in JavaScript and web development**
