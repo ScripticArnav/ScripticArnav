@@ -2,10 +2,10 @@
 <p align="center">
   <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="300">
 </p>
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/107767172/196756982-f3bcd4cc-7c85-42c1-ab8d-5a8d64825fdd.gif" width="100">, I'm Avanish Yadav</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/107767172/196756982-f3bcd4cc-7c85-42c1-ab8d-5a8d64825fdd.gif" width="100">, I'm Arnav Saxena</h1>
 <br>
 
-<h3 align="center">A passionate MERN Stack developer from India</h3> 
+<h3 align="center">A passionate FullStack developer from India, who is devoted towards learning and evolving,and love technologies</h3> 
 <br>
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/avanishyadav911/count.svg" alt="visitor badge"/></p>
