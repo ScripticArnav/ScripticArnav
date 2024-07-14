@@ -1,7 +1,15 @@
-<h1 align="center">Hi 👋, I'm Arnav Saxena</h1>
-<h3 align="center">A passionate FullStack developer from India, who is devoted towards learning and evolving,and love technologies</h3>
+<br>
+<p align="center">
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="300">
+</p>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/107767172/196756982-f3bcd4cc-7c85-42c1-ab8d-5a8d64825fdd.gif" width="100">, I'm Avanish Yadav</h1>
+<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=scripticarnav&label=Profile%20views&color=0e75b6&style=flat" alt="scripticarnav" /> </p>
+<h3 align="center">A passionate MERN Stack developer from India</h3> 
+<br>
+<p align="center"><b>Visitor's Count</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/avanishyadav911/count.svg" alt="visitor badge"/></p>
+<br/>
 
 - 🔭 I’m currently working on **honing my skills in JavaScript and web development**
 
@@ -11,22 +19,43 @@
 
 - 📫 How to reach me **arnav007sxn@gmail.com**
 
-- ⚡ Fun fact **I love to experiment with new programming languages and technologies in my free time.**
+- ⚡ Fun fact **I am a Flute Player, Fitness and Travel**
+ 
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  <img src="https://img.shields.io/badge/React-05122A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-05122A?style=flat&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Express.js-05122A?style=flat&logo=express&logoColor=000000" />
+  <img src="https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/C++-05122A?style=flat&logo=c%2B%2B&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/C-05122A?style=flat&logo=c&logoColor=A8B9CC" />
+  <img src="https://img.shields.io/badge/Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28" />
+  <img src="https://img.shields.io/badge/HTML-05122A?style=flat&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS-05122A?style=flat&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-05122A?style=flat&logo=tailwind-css&logoColor=38B2AC" />
+  <img src="https://img.shields.io/badge/Material-UI-05122A?style=flat&logo=material-ui&logoColor=0081CB" />
+  <img src="https://img.shields.io/badge/Semantic%20UI-05122A?style=flat&logo=semantic-ui&logoColor=35bdb2" />
+  <img src="https://img.shields.io/badge/Go-05122A?style=flat&logo=go&logoColor=00ADD8" />
+  <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/JSON-05122A?style=flat&logo=json&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github&logoColor=181717" />
+  <img src="https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=scripticarnav&show_icons=true&locale=en&layout=compact" alt="scripticarnav" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ScripticArnav&show_icons=true&locale=en&layout=compact" alt="ScripticArnav" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scripticarnav&show_icons=true&locale=en" alt="scripticarnav" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ScripticArnav&show_icons=true&locale=en" alt="ScripticArnav" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scripticarnav&" alt="scripticarnav" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ScripticArnav&" alt="ScriptiArnav" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arnav-saxena-170116233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnav-saxena-170116233" height="30" width="40" /></a>
 <a href="https://instagram.com/arnavsxn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arnavsxn" height="30" width="40" /></a>
 </p>
-
 
